@@ -19,6 +19,10 @@ body {
 #nav-list {
     margin: 0;
 }
+#menu-beef, #menu-chicken {
+    border-top: 0;
+    border-bottom: solid white 1px;
+}
 #header-nav {
     background-color: #004000;
     opacity: 0.8;
